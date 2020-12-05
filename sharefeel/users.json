@@ -1,0 +1,39 @@
+{
+    "abc121": {
+        "username": "abc",
+        "email": "abc@mail.com",
+        "password": "root",
+        "Created At:": "2020-10-24 20-45-04"
+    },
+    "asda": {
+        "username": "asda",
+        "email": "123333",
+        "password": "xgf",
+        "Created At:": "2020-10-24 21-47-40"
+    },
+    "lakshitt": {
+        "username": "lakshitt",
+        "email": "lakshit",
+        "password": "lak",
+        "Created At:": "2020-10-24 21-48-27"
+    },
+    "lakshi": {
+        "username": "lakshi",
+        "email": "lak123",
+        "password": "1231",
+        "Created At:": "2020-10-24 21-51-38"
+    },
+    "asd": {
+        "username": "asd",
+        "email": "abcv",
+        "password": "fgd",
+        "Created At:": "2020-10-24 21-52-53"
+    },
+    "": {
+        "username": "",
+        "email": "",
+        "password": "",
+        "Created At:": "2020-10-25 10-41-13"
+    },
+    
+}
